@@ -3,9 +3,9 @@ TR00756,Efficacy
 TR05267,Safety
 TR10354,Safety
 TR01930,Recruitment
-TR01046,Other
+TR01046,Safety Efficacy Other
 TR01460,Recruitment
-TR00199,Recruitment Other
+TR00199,Funding Recruitment
 TR09959,Recruitment
 TR01886,Recruitment
 TR09553,Other
@@ -28,7 +28,7 @@ TR03479,Efficacy Other
 TR08917,Funding
 TR04711,Recruitment
 TR02782,Recruitment
-TR01591,Other
+TR01591,Safety Efficacy Other
 TR00702,Recruitment
 TR06568,Recruitment
 TR02775,Efficacy
@@ -55,49 +55,49 @@ TR01680,Recruitment
 TR01271,Recruitment
 TR08816,Recruitment
 TR08615,Efficacy
-TR01327,Safety Other
+TR01327,Safety
 TR10326,Other
-TR03193,Other
+TR03193,Recruitment Other
 TR07016,Recruitment
 TR05009,Recruitment
 TR00739,Recruitment
 TR07827,Recruitment
-TR09690,Recruitment
+TR09690,Recruitment Other
 TR07047,Safety
 TR07083,Recruitment
 TR08599,Recruitment
 TR10480,Recruitment
 TR04082,Recruitment
-TR06209,Other
+TR06209,Safety Recruitment Other
 TR06402,Recruitment
 TR03898,Efficacy
 TR11280,Safety
 TR03159,Efficacy
-TR03889,Other
+TR03889,Recruitment Other
 TR00817,Recruitment
 TR03737,Recruitment
 TR04173,Recruitment
 TR04979,Recruitment
 TR11444,Efficacy
 TR06674,Other
-TR04547,Safety Other
-TR01193,Other
+TR04547,Safety
+TR01193,Recruitment Other
 TR05442,Recruitment
 TR09673,Efficacy Other
 TR03923,Efficacy
-TR07304,Safety
+TR07304,Other
 TR11513,Recruitment
 TR03314,Recruitment
 TR01134,Recruitment
 TR09857,Recruitment
 TR11539,Recruitment
-TR07142,Recruitment
+TR07142,Safety Recruitment
 TR04913,Safety
 TR10798,Safety
 TR04480,Efficacy Other
 TR04830,Other
 TR04407,Recruitment
-TR10002,Recruitment
+TR10002,Recruitment Other
 TR08680,Recruitment
 TR01054,Recruitment
 TR01671,Recruitment
@@ -109,7 +109,7 @@ TR03289,Safety
 TR00279,Recruitment
 TR06226,Efficacy
 TR03029,Recruitment
-TR10800,Other
+TR10800,Recruitment
 TR04724,Safety
 TR01920,Safety
 TR08667,Recruitment
@@ -125,7 +125,7 @@ TR10511,Recruitment
 TR09555,Efficacy
 TR07289,Recruitment
 TR04805,Recruitment
-TR05844,Safety Other
+TR05844,Safety
 TR11222,Recruitment
 TR08374,Recruitment
 TR04226,Recruitment
@@ -134,14 +134,14 @@ TR07143,Recruitment Other
 TR03490,Recruitment
 TR09508,Safety
 TR05557,Efficacy Other
-TR04675,Safety Other
+TR04675,Safety
 TR04494,Other
-TR09621,Recruitment Other
+TR09621,Recruitment
 TR08023,Recruitment
 TR06192,Safety
-TR02894,Recruitment
-TR06711,Recruitment Other
-TR11120,Other
+TR02894,Recruitment Other
+TR06711,Recruitment
+TR11120,Recruitment Other
 TR01239,Recruitment
 TR02645,Recruitment
 TR04777,Safety
@@ -151,11 +151,11 @@ TR07400,Recruitment
 TR04178,Safety
 TR05554,Other
 TR00399,Efficacy
-TR08352,Safety
+TR08352,Safety Efficacy
 TR09206,Recruitment
 TR09055,Recruitment Other
 TR03167,Other
-TR04310,Other
+TR04310,Efficacy Other
 TR02263,Recruitment
 TR07555,Recruitment
 TR05384,Recruitment
@@ -172,13 +172,13 @@ TR02708,Recruitment
 TR01265,Recruitment
 TR03143,Efficacy
 TR09403,Other
-TR10208,Recruitment
+TR10208,Safety Recruitment
 TR02086,Safety
 TR03197,Safety
 TR05684,Recruitment
 TR05353,Recruitment
-TR09696,Recruitment Other
-TR08275,Other
+TR09696,Recruitment
+TR08275,Efficacy Other
 TR10967,Recruitment Other
 TR07793,Recruitment
 TR03618,Recruitment
@@ -208,7 +208,7 @@ TR03710,Funding
 TR10513,Recruitment
 TR02676,Recruitment
 TR07194,Recruitment
-TR04498,Efficacy
+TR04498,Efficacy Recruitment
 TR10906,Other
 TR10620,Recruitment
 TR04888,Safety
@@ -225,10 +225,10 @@ TR04429,Recruitment
 TR00297,Recruitment Other
 TR10681,Recruitment
 TR00377,Recruitment
-TR02395,Other
+TR02395,Safety Recruitment Other
 TR04086,Safety
 TR08261,Other
-TR05070,Other
+TR05070,Safety Other
 TR01780,Other
 TR10307,Recruitment Other
 TR00794,Recruitment Other
@@ -237,7 +237,7 @@ TR05047,Recruitment
 TR03942,Recruitment
 TR05141,Recruitment
 TR10059,Recruitment
-TR09313,Efficacy Other
+TR09313,Efficacy
 TR05068,Recruitment
 TR03640,Recruitment
 TR04062,Other
@@ -254,7 +254,7 @@ TR06801,Funding Recruitment
 TR10489,Recruitment Other
 TR10961,Recruitment
 TR02133,Other
-TR04878,Safety
+TR04878,Safety Other
 TR09311,Recruitment Other
 TR10746,Recruitment
 TR00951,Recruitment
@@ -262,16 +262,16 @@ TR00275,Other
 TR11596,Recruitment
 TR09927,Recruitment
 TR01298,Safety
-TR09964,Efficacy
+TR09964,Efficacy Other
 TR03577,Recruitment
 TR00183,Recruitment
 TR04508,Recruitment Other
 TR06105,Recruitment
 TR10897,Recruitment
-TR00311,Recruitment
+TR00311,Funding Recruitment
 TR06916,Efficacy
 TR05651,Safety
-TR02051,Efficacy
+TR02051,Efficacy Other
 TR08827,Recruitment
 TR02504,Recruitment
 TR08129,Other
@@ -287,18 +287,18 @@ TR05333,Recruitment
 TR09499,Efficacy
 TR05588,Other
 TR09583,Recruitment Other
-TR07242,Other
+TR07242,Safety Other
 TR10023,Efficacy
 TR05437,Funding Recruitment
 TR01115,Recruitment
 TR04098,Safety Other
 TR01349,Recruitment
 TR07014,Safety
-TR07421,Recruitment
-TR09883,Safety Other
+TR07421,Recruitment Other
+TR09883,Safety
 TR04632,Recruitment
 TR04473,Recruitment
-TR03179,Other
+TR03179,Recruitment Other
 TR03452,Recruitment
 TR09980,Recruitment
 TR06341,Safety
